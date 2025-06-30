@@ -17,8 +17,16 @@
 
 ## 📈 My Coding Stats
 
-![Anshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshika444&show_icons=true&theme=radical)  
-![LeetCode Stats](https://leetcard.jacoblin.cool/user3773y)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Anshika444&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/user3773y" alt="LeetCode Stats" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🛠️ Tech Stack
