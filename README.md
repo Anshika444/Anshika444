@@ -21,14 +21,13 @@
   <tr>
     <td width="50%">
       <ul>
-        <br></br>
       <img src="https://github-readme-stats.vercel.app/api?username=Anshika444&show_icons=true&theme=radical" alt="GitHub Stats" />
         </ul>
     </td>
     <td width="50%">
       <ul>
-        <p>Currently practicing DSA on <a href="https://leetcode.com/user3773y/">LeetCode</a> Solved 50+ problems and aiming for 150+ this year</p>
          <img src="https://leetcard.jacoblin.cool/user3773y" alt="LeetCode Stats" />
+         <p>Currently practicing DSA on <a href="https://leetcode.com/user3773y/">LeetCode</a> Solved 50+ problems and aiming for 150+ this year</p>
       </ul>
     </td>
   </tr>
