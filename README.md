@@ -27,7 +27,7 @@
     </td>
     <td width="50%">
       <ul>
-        <li> Currently practicing DSA on <a href="https://leetcode.com/user3773y/">LeetCode</a> Solved 50+ problems and aiming for 150+ this year</li>
+        <p>Currently practicing DSA on <a href="https://leetcode.com/user3773y/">LeetCode</a> Solved 50+ problems and aiming for 150+ this year</p>
          <img src="https://leetcard.jacoblin.cool/user3773y" alt="LeetCode Stats" />
       </ul>
     </td>
