@@ -28,7 +28,6 @@
     <td width="50%">
       <ul>
          <img src="https://leetcard.jacoblin.cool/user3773y" alt="LeetCode Stats" />
-         <p>Currently practicing DSA on <a href="https://leetcode.com/user3773y/">LeetCode</a> Solved 50+ problems and aiming for 150+ this year</p>
       </ul>
     </td>
   </tr>
