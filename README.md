@@ -27,4 +27,4 @@
 📊 Other:           Figma, Power BI, REST APIs
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/user3773y)
+[LeetCode Stats](https://leetcard.jacoblin.cool/user3773y)
