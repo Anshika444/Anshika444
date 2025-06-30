@@ -16,13 +16,13 @@
 ---
 
 ## 📈 My Coding Stats
+<sub>Currently practicing DSA on <a href="https://leetcode.com/user3773y/">LeetCode</a>, <a href="https://www.geeksforgeeks.org/user/anshikaupadhyay44/">GFG</a>· Solved 100+ problems and aiming for 200+ this year 🚀</sub>
 
 <table>
   <tr>
     <td width="50%">
       <ul>
       <img src="https://github-readme-stats.vercel.app/api?username=Anshika444&show_icons=true&theme=radical" alt="GitHub Stats" />
-        <p style={color:'black'}>wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww</p>
         </ul>
     </td>
     <td width="50%">
