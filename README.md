@@ -19,14 +19,22 @@
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=Anshika444&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
-    <td>
-      <img src="https://leetcard.jacoblin.cool/user3773y" alt="LeetCode Stats" />
+    <td width="50%">
+      <h3>🧠 DSA Journey</h3>
+      <ul>
+        <li>🔍 Currently practicing DSA on <a href="https://leetcode.com/user3773y/">LeetCode</a></li>
+        <li>✅ Solved 50+ problems and aiming for 150+ this year</li>
+        <li>📌 Focused on problem-solving patterns & consistency</li>
+      </ul>
+      <!-- Uncomment below when ready to show visual stats -->
+      <!-- <img src="https://leetcard.jacoblin.cool/user3773y" alt="LeetCode Stats" /> -->
     </td>
   </tr>
 </table>
+
 
 
 ## 🛠️ Tech Stack
