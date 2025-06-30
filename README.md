@@ -27,11 +27,9 @@
       <ul>
         <li>🔍 Currently practicing DSA on <a href="https://leetcode.com/user3773y/">LeetCode</a></li>
         <li>✅ Solved 50+ problems and aiming for 150+ this year</li>
-        <li><img src="https://leetcard.jacoblin.cool/user3773y" alt="LeetCode Stats" /></li>
         <li>📌 Focused on problem-solving patterns & consistency</li>
+         <img src="https://leetcard.jacoblin.cool/user3773y" alt="LeetCode Stats" />
       </ul>
-      <!-- Uncomment below when ready to show visual stats -->
-      <!-- <img src="https://leetcard.jacoblin.cool/user3773y" alt="LeetCode Stats" /> -->
     </td>
   </tr>
 </table>
