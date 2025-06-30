@@ -2,7 +2,6 @@
 <h3 align="center">🚀 Front-End Developer | 👩‍💻 MTech AI/ML IIT Jodhpur | 📍 Bangalore, India</h3>
 
 
-![Anshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshika444&show_icons=true&theme=radical)
 ---
 
 ## 👩‍💼 About Me
@@ -27,4 +26,5 @@
 📊 Other:           Figma, Power BI, REST APIs
 
 
-[LeetCode Stats](https://leetcard.jacoblin.cool/user3773y)
+![Anshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshika444&show_icons=true&theme=radical)
+![LeetCode Stats](https://leetcard.jacoblin.cool/user3773y)
