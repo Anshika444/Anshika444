@@ -15,6 +15,12 @@
 
 ---
 
+## 📈 My Coding Stats
+
+![Anshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshika444&show_icons=true&theme=radical)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/user3773y)
+
+
 ## 🛠️ Tech Stack
 
 ```bash
@@ -25,9 +31,4 @@
 ☁️ Cloud & DevOps:   Azure Web Apps, CI/CD, SharePoint Online
 📊 Other:           Figma, Power BI, REST APIs
 
----
 
-## 📈 My Coding Stats
-
-![Anshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshika444&show_icons=true&theme=radical)  
-![LeetCode Stats](https://leetcard.jacoblin.cool/user3773y)
