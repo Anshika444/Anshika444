@@ -25,3 +25,6 @@
 🛠️ Tools & IDEs:    VS Code, GitHub, Azure DevOps, Power Automate
 ☁️ Cloud & DevOps:   Azure Web Apps, CI/CD, SharePoint Online
 📊 Other:           Figma, Power BI, REST APIs
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/user3773y)
