@@ -40,7 +40,7 @@
 ```bash
 💻 Languages:       JavaScript, TypeScript, HTML, CSS, Python
 🌐 Frontend:        React.js, SPFx, Redux, Next.js, Bootstrap
-🧠 AI/ML:           Scikit-learn, Pandas, Streamlit, OpenCV
+🧠 AI/ML:           Scikit-learn, Pandas, Streamlit, OpenCV, Tensorflow, LSTM/GRU, Transformers
 🛠️ Tools & IDEs:    VS Code, GitHub, Azure DevOps, Power Automate
 ☁️ Cloud & DevOps:   Azure Web Apps, CI/CD, SharePoint Online
 📊 Other:           Figma, Power BI, REST APIs
